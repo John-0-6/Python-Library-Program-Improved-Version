@@ -71,7 +71,7 @@ This system allows managing books, searching, borrowing, returning, deleting boo
 ### Clone the repository
 
 ```bash
-  git clone https://github.com/John-0-6/Library-Management-System-Python.git
+  git clone https://github.com/John-0-6/Python-Library-Management-System.git
   cd Library-Management-System-Python
 ```
 
